@@ -1,3 +1,6 @@
+#Ariff Sanusi
+#B152510010
+
 .data
 	newline:	.asciiz "\n"
 	menuMsg: 	.asciiz "Choose the following operation based on the option number:\n"
